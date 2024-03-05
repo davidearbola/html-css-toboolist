@@ -18,3 +18,37 @@
 }
 
 /* fine header */
+
+main {
+    background-color: #F6F8F9;
+}
+
+.box {
+    width: 60%;
+    margin: auto;
+    padding: 30px 0 30px 0;
+}
+
+.button-container {
+    background-color: white;
+    margin-bottom: 5px;
+    padding: 10px 0 10px 30px;
+    border-radius: 10px 10px 0 0;
+}
+
+button {
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.add-task {
+    background-color: #47ADF1;
+    color: white;
+    border: 1px solid #47ADF1;
+}
+
+.add-section {
+    background-color: white;
+    color: #D6DADE;
+    border: 1px solid #D6DADE;
+}
